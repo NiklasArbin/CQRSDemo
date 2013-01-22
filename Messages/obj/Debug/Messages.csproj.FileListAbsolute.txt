@@ -1,0 +1,12 @@
+c:\users\niklas.arbin\documents\visual studio 2012\Projects\KTHDemo\Messages\bin\Debug\Messages.dll
+c:\users\niklas.arbin\documents\visual studio 2012\Projects\KTHDemo\Messages\bin\Debug\Messages.pdb
+c:\users\niklas.arbin\documents\visual studio 2012\Projects\KTHDemo\Messages\bin\Debug\log4net.dll
+c:\users\niklas.arbin\documents\visual studio 2012\Projects\KTHDemo\Messages\bin\Debug\NServiceBus.Core.dll
+c:\users\niklas.arbin\documents\visual studio 2012\Projects\KTHDemo\Messages\bin\Debug\NServiceBus.dll
+c:\users\niklas.arbin\documents\visual studio 2012\Projects\KTHDemo\Messages\bin\Debug\log4net.xml
+c:\users\niklas.arbin\documents\visual studio 2012\Projects\KTHDemo\Messages\bin\Debug\NServiceBus.pdb
+c:\users\niklas.arbin\documents\visual studio 2012\Projects\KTHDemo\Messages\bin\Debug\NServiceBus.xml
+c:\users\niklas.arbin\documents\visual studio 2012\Projects\KTHDemo\Messages\bin\Debug\NServiceBus.Core.pdb
+c:\users\niklas.arbin\documents\visual studio 2012\Projects\KTHDemo\Messages\bin\Debug\NServiceBus.Core.xml
+c:\users\niklas.arbin\documents\visual studio 2012\Projects\KTHDemo\Messages\obj\Debug\Messages.dll
+c:\users\niklas.arbin\documents\visual studio 2012\Projects\KTHDemo\Messages\obj\Debug\Messages.pdb

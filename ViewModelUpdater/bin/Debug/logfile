@@ -1,0 +1,462 @@
+2013-01-22 08:05:52,370 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2013-01-22 08:05:52,976 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2013-01-22 08:05:53,021 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2013-01-22 08:05:53,041 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2013-01-22 08:05:53,046 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2013-01-22 08:06:00,823 [1] WARN  NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Queue ffcg156\private$\viewmodelupdater.retries does not exist.
+2013-01-22 08:06:00,829 [1] INFO  NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Going to create queue: ffcg156\private$\viewmodelupdater.retries
+2013-01-22 08:06:02,237 [1] WARN  NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Queue ffcg156\private$\viewmodelupdater.timeouts does not exist.
+2013-01-22 08:06:02,239 [1] INFO  NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Going to create queue: ffcg156\private$\viewmodelupdater.timeouts
+2013-01-22 08:06:02,529 [1] WARN  NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Queue ffcg156\private$\viewmodelupdater.timeoutsdispatcher does not exist.
+2013-01-22 08:06:02,532 [1] INFO  NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Going to create queue: ffcg156\private$\viewmodelupdater.timeoutsdispatcher
+2013-01-22 08:06:02,730 [1] WARN  NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Queue ffcg156\private$\viewmodelupdater does not exist.
+2013-01-22 08:06:02,733 [1] INFO  NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Going to create queue: ffcg156\private$\viewmodelupdater
+2013-01-22 08:29:45,327 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2013-01-22 08:29:45,745 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2013-01-22 08:29:45,766 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2013-01-22 08:29:45,781 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2013-01-22 08:29:45,786 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2013-01-22 08:32:30,681 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2013-01-22 08:32:30,989 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2013-01-22 08:32:31,003 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2013-01-22 08:32:31,015 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2013-01-22 08:32:31,018 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2013-01-22 08:34:11,768 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2013-01-22 08:34:12,124 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2013-01-22 08:34:12,140 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2013-01-22 08:34:12,155 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2013-01-22 08:34:12,160 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2013-01-22 08:35:22,039 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2013-01-22 08:35:22,399 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2013-01-22 08:35:22,414 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2013-01-22 08:35:22,429 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2013-01-22 08:35:22,433 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2013-01-22 08:37:16,610 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2013-01-22 08:37:16,947 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2013-01-22 08:37:16,966 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2013-01-22 08:37:16,981 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2013-01-22 08:37:16,986 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2013-01-22 08:41:06,784 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2013-01-22 08:41:07,187 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2013-01-22 08:41:07,207 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2013-01-22 08:41:07,223 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2013-01-22 08:41:07,228 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2013-01-22 08:44:34,104 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2013-01-22 08:44:34,401 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2013-01-22 08:44:34,421 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2013-01-22 08:44:34,438 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2013-01-22 08:44:34,443 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2013-01-22 08:46:36,758 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2013-01-22 08:46:37,053 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2013-01-22 08:46:37,069 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2013-01-22 08:46:37,084 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2013-01-22 08:46:37,088 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2013-01-22 09:18:24,233 [1] WARN  NServiceBus.Configure [(null)] <(null)> - Could not scan assembly: NServiceBus.NHibernate, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c. Exception message System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+   at System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at System.Reflection.RuntimeModule.GetTypes()
+   at System.Reflection.Assembly.GetTypes()
+   at NServiceBus.Configure.<>c__DisplayClass1f.<GetAllowedTypes>b__1c(Assembly a) in c:\TeamCity\buildAgent\work\nsb.master_5\src\config\NServiceBus.Config\Configure.cs:line 397.
+Scanned type errors: 
+Could not load file or assembly 'NHibernate, Version=3.3.0.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4' or one of its dependencies. The located assembly's manifest definition does not match the assembly reference. (Exception from HRESULT: 0x80131040)
+Could not load file or assembly 'NHibernate, Version=3.3.0.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4' or one of its dependencies. The located assembly's manifest definition does not match the assembly reference. (Exception from HRESULT: 0x80131040)
+Could not load file or assembly 'NHibernate, Version=3.3.0.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4' or one of its dependencies. The located assembly's manifest definition does not match the assembly reference. (Exception from HRESULT: 0x80131040)
+2013-01-22 09:18:24,602 [1] FATAL NServiceBus.Hosting.GenericHost [(null)] <(null)> - System.IO.FileLoadException: Could not load file or assembly 'NHibernate, Version=3.3.0.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4' or one of its dependencies. The located assembly's manifest definition does not match the assembly reference. (Exception from HRESULT: 0x80131040)
+File name: 'NHibernate, Version=3.3.0.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4'
+   at NServiceBus.ConfigureNHibernateSubscriptionStorage.DBSubcriptionStorage(Configure config)
+   at ViewModelUpdater.EndpointConfig.Init() in c:\Users\niklas.arbin\Documents\Visual Studio 2012\Projects\KTHDemo\ViewModelUpdater\EndpointConfig.cs:line 13
+   at NServiceBus.Hosting.GenericHost.PerformConfiguration() in c:\TeamCity\buildAgent\work\nsb.master_5\src\hosting\NServiceBus.Hosting\GenericHost.cs:line 102
+   at NServiceBus.Hosting.GenericHost.Start() in c:\TeamCity\buildAgent\work\nsb.master_5\src\hosting\NServiceBus.Hosting\GenericHost.cs:line 30
+
+=== Pre-bind state information ===
+LOG: User = FFCG\niklas.arbin
+LOG: DisplayName = NHibernate, Version=3.3.0.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4
+ (Fully-specified)
+LOG: Appbase = file:///c:/users/niklas.arbin/documents/visual studio 2012/Projects/KTHDemo/ViewModelUpdater/bin/Debug/
+LOG: Initial PrivatePath = NULL
+Calling assembly : NServiceBus.NHibernate, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c.
+===
+LOG: This bind starts in default load context.
+LOG: Using application configuration file: c:\users\niklas.arbin\documents\visual studio 2012\Projects\KTHDemo\ViewModelUpdater\bin\Debug\ViewModelUpdater.dll.config
+LOG: Using host configuration file: 
+LOG: Using machine configuration file from C:\Windows\Microsoft.NET\Framework64\v4.0.30319\config\machine.config.
+LOG: Post-policy reference: NHibernate, Version=3.3.0.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4
+LOG: Attempting download of new URL file:///c:/users/niklas.arbin/documents/visual studio 2012/Projects/KTHDemo/ViewModelUpdater/bin/Debug/NHibernate.DLL.
+WRN: Comparing the assembly name resulted in the mismatch: Build Number
+ERR: Failed to complete setup of assembly (hr = 0x80131040). Probing terminated.
+
+2013-01-22 09:20:33,422 [1] WARN  NServiceBus.Configure [(null)] <(null)> - Could not scan assembly: NServiceBus.NHibernate, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c. Exception message System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+   at System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at System.Reflection.RuntimeModule.GetTypes()
+   at System.Reflection.Assembly.GetTypes()
+   at NServiceBus.Configure.<>c__DisplayClass1f.<GetAllowedTypes>b__1c(Assembly a) in c:\TeamCity\buildAgent\work\nsb.master_5\src\config\NServiceBus.Config\Configure.cs:line 397.
+Scanned type errors: 
+Could not load file or assembly 'NHibernate, Version=3.3.0.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4' or one of its dependencies. The located assembly's manifest definition does not match the assembly reference. (Exception from HRESULT: 0x80131040)
+Could not load file or assembly 'NHibernate, Version=3.3.0.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4' or one of its dependencies. The located assembly's manifest definition does not match the assembly reference. (Exception from HRESULT: 0x80131040)
+Could not load file or assembly 'NHibernate, Version=3.3.0.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4' or one of its dependencies. The located assembly's manifest definition does not match the assembly reference. (Exception from HRESULT: 0x80131040)
+2013-01-22 09:20:33,673 [1] FATAL NServiceBus.Hosting.GenericHost [(null)] <(null)> - System.IO.FileLoadException: Could not load file or assembly 'NHibernate, Version=3.3.0.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4' or one of its dependencies. The located assembly's manifest definition does not match the assembly reference. (Exception from HRESULT: 0x80131040)
+File name: 'NHibernate, Version=3.3.0.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4'
+   at NServiceBus.ConfigureNHibernateSubscriptionStorage.DBSubcriptionStorage(Configure config)
+   at ViewModelUpdater.EndpointConfig.Init() in c:\Users\niklas.arbin\Documents\Visual Studio 2012\Projects\KTHDemo\ViewModelUpdater\EndpointConfig.cs:line 13
+   at NServiceBus.Hosting.GenericHost.PerformConfiguration() in c:\TeamCity\buildAgent\work\nsb.master_5\src\hosting\NServiceBus.Hosting\GenericHost.cs:line 102
+   at NServiceBus.Hosting.GenericHost.Start() in c:\TeamCity\buildAgent\work\nsb.master_5\src\hosting\NServiceBus.Hosting\GenericHost.cs:line 30
+
+=== Pre-bind state information ===
+LOG: User = FFCG\niklas.arbin
+LOG: DisplayName = NHibernate, Version=3.3.0.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4
+ (Fully-specified)
+LOG: Appbase = file:///c:/users/niklas.arbin/documents/visual studio 2012/Projects/KTHDemo/ViewModelUpdater/bin/Debug/
+LOG: Initial PrivatePath = NULL
+Calling assembly : NServiceBus.NHibernate, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c.
+===
+LOG: This bind starts in default load context.
+LOG: Using application configuration file: c:\users\niklas.arbin\documents\visual studio 2012\Projects\KTHDemo\ViewModelUpdater\bin\Debug\ViewModelUpdater.dll.config
+LOG: Using host configuration file: 
+LOG: Using machine configuration file from C:\Windows\Microsoft.NET\Framework64\v4.0.30319\config\machine.config.
+LOG: Post-policy reference: NHibernate, Version=3.3.0.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4
+LOG: Attempting download of new URL file:///c:/users/niklas.arbin/documents/visual studio 2012/Projects/KTHDemo/ViewModelUpdater/bin/Debug/NHibernate.DLL.
+WRN: Comparing the assembly name resulted in the mismatch: Build Number
+ERR: Failed to complete setup of assembly (hr = 0x80131040). Probing terminated.
+
+2013-01-22 09:21:48,576 [1] WARN  NServiceBus.Configure [(null)] <(null)> - Could not scan assembly: NServiceBus.NHibernate, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c. Exception message System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+   at System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at System.Reflection.RuntimeModule.GetTypes()
+   at System.Reflection.Assembly.GetTypes()
+   at NServiceBus.Configure.<>c__DisplayClass1f.<GetAllowedTypes>b__1c(Assembly a) in c:\TeamCity\buildAgent\work\nsb.master_5\src\config\NServiceBus.Config\Configure.cs:line 397.
+Scanned type errors: 
+Could not load file or assembly 'NHibernate, Version=3.3.0.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4' or one of its dependencies. The located assembly's manifest definition does not match the assembly reference. (Exception from HRESULT: 0x80131040)
+Could not load file or assembly 'NHibernate, Version=3.3.0.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4' or one of its dependencies. The located assembly's manifest definition does not match the assembly reference. (Exception from HRESULT: 0x80131040)
+Could not load file or assembly 'NHibernate, Version=3.3.0.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4' or one of its dependencies. The located assembly's manifest definition does not match the assembly reference. (Exception from HRESULT: 0x80131040)
+2013-01-22 09:23:20,134 [1] WARN  NServiceBus.Configure [(null)] <(null)> - Could not scan assembly: NServiceBus.NHibernate, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c. Exception message System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+   at System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at System.Reflection.RuntimeModule.GetTypes()
+   at System.Reflection.Assembly.GetTypes()
+   at NServiceBus.Configure.<>c__DisplayClass1f.<GetAllowedTypes>b__1c(Assembly a) in c:\TeamCity\buildAgent\work\nsb.master_5\src\config\NServiceBus.Config\Configure.cs:line 397.
+Scanned type errors: 
+Could not load file or assembly 'NHibernate, Version=3.3.0.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4' or one of its dependencies. The located assembly's manifest definition does not match the assembly reference. (Exception from HRESULT: 0x80131040)
+Could not load file or assembly 'NHibernate, Version=3.3.0.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4' or one of its dependencies. The located assembly's manifest definition does not match the assembly reference. (Exception from HRESULT: 0x80131040)
+Could not load file or assembly 'NHibernate, Version=3.3.0.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4' or one of its dependencies. The located assembly's manifest definition does not match the assembly reference. (Exception from HRESULT: 0x80131040)
+2013-01-22 09:23:20,487 [1] FATAL NServiceBus.Hosting.GenericHost [(null)] <(null)> - System.IO.FileLoadException: Could not load file or assembly 'NHibernate, Version=3.3.0.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4' or one of its dependencies. The located assembly's manifest definition does not match the assembly reference. (Exception from HRESULT: 0x80131040)
+File name: 'NHibernate, Version=3.3.0.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4'
+   at NServiceBus.ConfigureNHibernateSubscriptionStorage.DBSubcriptionStorage(Configure config)
+   at ViewModelUpdater.EndpointConfig.Init() in c:\Users\niklas.arbin\Documents\Visual Studio 2012\Projects\KTHDemo\ViewModelUpdater\EndpointConfig.cs:line 13
+   at NServiceBus.Hosting.GenericHost.PerformConfiguration() in c:\TeamCity\buildAgent\work\nsb.master_5\src\hosting\NServiceBus.Hosting\GenericHost.cs:line 102
+   at NServiceBus.Hosting.GenericHost.Start() in c:\TeamCity\buildAgent\work\nsb.master_5\src\hosting\NServiceBus.Hosting\GenericHost.cs:line 30
+
+=== Pre-bind state information ===
+LOG: User = FFCG\niklas.arbin
+LOG: DisplayName = NHibernate, Version=3.3.0.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4
+ (Fully-specified)
+LOG: Appbase = file:///c:/users/niklas.arbin/documents/visual studio 2012/Projects/KTHDemo/ViewModelUpdater/bin/Debug/
+LOG: Initial PrivatePath = NULL
+Calling assembly : NServiceBus.NHibernate, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c.
+===
+LOG: This bind starts in default load context.
+LOG: Using application configuration file: c:\users\niklas.arbin\documents\visual studio 2012\Projects\KTHDemo\ViewModelUpdater\bin\Debug\ViewModelUpdater.dll.config
+LOG: Using host configuration file: 
+LOG: Using machine configuration file from C:\Windows\Microsoft.NET\Framework64\v4.0.30319\config\machine.config.
+LOG: Post-policy reference: NHibernate, Version=3.3.0.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4
+LOG: Attempting download of new URL file:///c:/users/niklas.arbin/documents/visual studio 2012/Projects/KTHDemo/ViewModelUpdater/bin/Debug/NHibernate.DLL.
+WRN: Comparing the assembly name resulted in the mismatch: Build Number
+ERR: Failed to complete setup of assembly (hr = 0x80131040). Probing terminated.
+
+2013-01-22 09:27:32,206 [1] FATAL NServiceBus.Hosting.GenericHost [(null)] <(null)> - System.InvalidOperationException: No configuration section for DB Subscription Storage found. Pleas add a DBSubscriptionStorageConfig section to you configuration file
+   at NServiceBus.ConfigureNHibernateSubscriptionStorage.DBSubcriptionStorage(Configure config) in c:\TeamCity\buildAgent\work\nsb.master_5\src\nhibernate\Subscriptions\NServiceBus.Unicast.Subscriptions.NHibernate\Config\ConfigureNHibernateSubscriptionStorage.cs:line 52
+   at ViewModelUpdater.EndpointConfig.Init() in c:\Users\niklas.arbin\Documents\Visual Studio 2012\Projects\KTHDemo\ViewModelUpdater\EndpointConfig.cs:line 13
+   at NServiceBus.Hosting.GenericHost.PerformConfiguration() in c:\TeamCity\buildAgent\work\nsb.master_5\src\hosting\NServiceBus.Hosting\GenericHost.cs:line 102
+   at NServiceBus.Hosting.GenericHost.Start() in c:\TeamCity\buildAgent\work\nsb.master_5\src\hosting\NServiceBus.Hosting\GenericHost.cs:line 30
+2013-01-22 09:31:24,717 [1] INFO  NHibernate.Cfg.Environment [(null)] <(null)> - NHibernate 3.3.1.4000 (3.3.2.GA)
+2013-01-22 09:31:24,801 [1] INFO  NHibernate.Cfg.Environment [(null)] <(null)> - hibernate-configuration section not found in application configuration file
+2013-01-22 09:31:24,807 [1] INFO  NHibernate.Cfg.Environment [(null)] <(null)> - Bytecode provider name : lcg
+2013-01-22 09:31:24,812 [1] INFO  NHibernate.Cfg.Environment [(null)] <(null)> - Using reflection optimizer
+2013-01-22 09:31:25,174 [1] INFO  NHibernate.Dialect.Dialect [(null)] <(null)> - Using dialect: NHibernate.Dialect.MsSql2005Dialect
+2013-01-22 09:31:25,274 [1] INFO  NHibernate.Cfg.XmlHbmBinding.Binder [(null)] <(null)> - Mapping class: NServiceBus.TimeoutPersisters.NHibernate.TimeoutEntity -> TimeoutEntity
+2013-01-22 09:31:25,364 [1] INFO  NHibernate.Cfg.XmlHbmBinding.Binder [(null)] <(null)> - Mapping class: NServiceBus.Unicast.Subscriptions.NHibernate.Subscription -> Subscription
+2013-01-22 09:31:25,396 [1] INFO  NHibernate.Dialect.Dialect [(null)] <(null)> - Using dialect: NHibernate.Dialect.MsSql2005Dialect
+2013-01-22 09:31:25,404 [1] INFO  NHibernate.Tool.hbm2ddl.SchemaUpdate [(null)] <(null)> - Running hbm2ddl schema update
+2013-01-22 09:31:25,408 [1] INFO  NHibernate.Tool.hbm2ddl.SchemaUpdate [(null)] <(null)> - fetching database metadata
+2013-01-22 09:31:25,415 [1] INFO  NHibernate.Connection.ConnectionProviderFactory [(null)] <(null)> - Initializing connection provider: NHibernate.Connection.DriverConnectionProvider
+2013-01-22 09:31:25,421 [1] INFO  NHibernate.Connection.ConnectionProvider [(null)] <(null)> - Configuring ConnectionProvider
+2013-01-22 09:31:25,842 [1] INFO  NHibernate.Tool.hbm2ddl.SchemaUpdate [(null)] <(null)> - updating schema
+2013-01-22 09:31:25,854 [1] INFO  NHibernate.Cfg.Configuration [(null)] <(null)> - checking mappings queue
+2013-01-22 09:31:25,858 [1] INFO  NHibernate.Cfg.Configuration [(null)] <(null)> - processing one-to-many association mappings
+2013-01-22 09:31:25,861 [1] INFO  NHibernate.Cfg.Configuration [(null)] <(null)> - processing one-to-one association property references
+2013-01-22 09:31:25,865 [1] INFO  NHibernate.Cfg.Configuration [(null)] <(null)> - processing foreign key constraints
+2013-01-22 09:31:25,873 [1] INFO  NHibernate.Cfg.Configuration [(null)] <(null)> - processing filters (second pass)
+2013-01-22 09:31:26,843 [1] INFO  NHibernate.Dialect.Schema.ITableMetadata [(null)] <(null)> - table found: NServiceBusSubscriptions.dbo.TimeoutEntity
+2013-01-22 09:31:26,847 [1] INFO  NHibernate.Dialect.Schema.ITableMetadata [(null)] <(null)> - columns: id, destination, sagaid, state, time, correlationid, headers, endpoint
+2013-01-22 09:31:26,850 [1] INFO  NHibernate.Dialect.Schema.ITableMetadata [(null)] <(null)> - foreign keys: 
+2013-01-22 09:31:26,854 [1] INFO  NHibernate.Dialect.Schema.ITableMetadata [(null)] <(null)> - indexes: endpointidx, pk__timeoute__3214ec077f60ed59, sagaididx
+2013-01-22 09:31:26,901 [1] INFO  NHibernate.Dialect.Schema.ITableMetadata [(null)] <(null)> - table found: NServiceBusSubscriptions.dbo.Subscription
+2013-01-22 09:31:26,905 [1] INFO  NHibernate.Dialect.Schema.ITableMetadata [(null)] <(null)> - columns: subscriberendpoint, messagetype, version, typename
+2013-01-22 09:31:26,907 [1] INFO  NHibernate.Dialect.Schema.ITableMetadata [(null)] <(null)> - foreign keys: 
+2013-01-22 09:31:26,911 [1] INFO  NHibernate.Dialect.Schema.ITableMetadata [(null)] <(null)> - indexes: nci_subscription_typename, pk__subscrip__407d9ab103317e3d
+2013-01-22 09:31:27,004 [1] INFO  NHibernate.Tool.hbm2ddl.SchemaUpdate [(null)] <(null)> - schema update complete
+2013-01-22 09:31:27,025 [1] INFO  NHibernate.Cfg.Configuration [(null)] <(null)> - checking mappings queue
+2013-01-22 09:31:27,029 [1] INFO  NHibernate.Cfg.Configuration [(null)] <(null)> - processing one-to-many association mappings
+2013-01-22 09:31:27,032 [1] INFO  NHibernate.Cfg.Configuration [(null)] <(null)> - processing one-to-one association property references
+2013-01-22 09:31:27,035 [1] INFO  NHibernate.Cfg.Configuration [(null)] <(null)> - processing foreign key constraints
+2013-01-22 09:31:27,040 [1] INFO  NHibernate.Cfg.Configuration [(null)] <(null)> - processing filters (second pass)
+2013-01-22 09:31:27,077 [1] INFO  NHibernate.Dialect.Dialect [(null)] <(null)> - Using dialect: NHibernate.Dialect.MsSql2005Dialect
+2013-01-22 09:31:27,090 [1] INFO  NHibernate.Dialect.Dialect [(null)] <(null)> - Using dialect: NHibernate.Dialect.MsSql2005Dialect
+2013-01-22 09:31:27,165 [1] INFO  NHibernate.Exceptions.SQLExceptionConverterFactory [(null)] <(null)> - Using dialect defined converter
+2013-01-22 09:31:27,169 [1] INFO  NHibernate.Cfg.SettingsFactory [(null)] <(null)> - Generate SQL with comments: disabled
+2013-01-22 09:31:27,173 [1] INFO  NHibernate.Connection.ConnectionProviderFactory [(null)] <(null)> - Initializing connection provider: NHibernate.Connection.DriverConnectionProvider
+2013-01-22 09:31:27,176 [1] INFO  NHibernate.Connection.ConnectionProvider [(null)] <(null)> - Configuring ConnectionProvider
+2013-01-22 09:31:27,181 [1] INFO  NHibernate.Cfg.SettingsFactory [(null)] <(null)> - Transaction factory: NHibernate.Transaction.AdoNetWithDistributedTransactionFactory
+2013-01-22 09:31:27,185 [1] INFO  NHibernate.Cfg.SettingsFactory [(null)] <(null)> - Optimize cache for minimal puts: False
+2013-01-22 09:31:27,189 [1] INFO  NHibernate.Cfg.SettingsFactory [(null)] <(null)> - Connection release mode: auto
+2013-01-22 09:31:27,194 [1] INFO  NHibernate.Cfg.SettingsFactory [(null)] <(null)> - Default batch fetch size: 1
+2013-01-22 09:31:27,197 [1] INFO  NHibernate.Cfg.SettingsFactory [(null)] <(null)> - Statistics: disabled
+2013-01-22 09:31:27,201 [1] INFO  NHibernate.Cfg.SettingsFactory [(null)] <(null)> - Deleted entity synthetic identifier rollback: disabled
+2013-01-22 09:31:27,207 [1] INFO  NHibernate.Cfg.SettingsFactory [(null)] <(null)> - Query translator: NHibernate.Hql.Ast.ANTLR.ASTQueryTranslatorFactory
+2013-01-22 09:31:27,217 [1] INFO  NHibernate.Cfg.SettingsFactory [(null)] <(null)> - Query language substitutions: {'true'='1', 'false'='0', 'yes'=''Y'', 'no'=''N''}
+2013-01-22 09:31:27,224 [1] INFO  NHibernate.Cfg.SettingsFactory [(null)] <(null)> - cache provider: NHibernate.Cache.NoCacheProvider, NHibernate, Version=3.3.1.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4
+2013-01-22 09:31:27,230 [1] INFO  NHibernate.Cfg.SettingsFactory [(null)] <(null)> - Order SQL inserts for batching: enabled
+2013-01-22 09:31:27,235 [1] INFO  NHibernate.Cfg.SettingsFactory [(null)] <(null)> - Batcher factory: NHibernate.AdoNet.SqlClientBatchingBatcherFactory, NHibernate, Version=3.3.1.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4
+2013-01-22 09:31:27,241 [1] INFO  NHibernate.Cfg.SettingsFactory [(null)] <(null)> - Default entity-mode: Poco
+2013-01-22 09:31:27,245 [1] INFO  NHibernate.Cfg.SettingsFactory [(null)] <(null)> - Named query checking : enabled
+2013-01-22 09:31:27,277 [1] INFO  NHibernate.Impl.SessionFactoryImpl [(null)] <(null)> - building session factory
+2013-01-22 09:31:27,623 [1] INFO  NHibernate.Impl.SessionFactoryObjectFactory [(null)] <(null)> - no name configured
+2013-01-22 09:31:27,744 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2013-01-22 09:31:27,852 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2013-01-22 09:31:27,868 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2013-01-22 09:31:27,884 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2013-01-22 09:31:27,889 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2013-01-22 09:31:31,926 [1] INFO  NHibernate.Loader.Loader [(null)] <(null)> - SELECT this_.SubscriberEndpoint as Subscrib1_1_0_, this_.MessageType as MessageT2_1_0_, this_.Version as Version1_0_, this_.TypeName as TypeName1_0_ FROM Subscription this_ WHERE this_.TypeName is null
+2013-01-22 09:32:46,446 [1] INFO  NHibernate.Cfg.Environment [(null)] <(null)> - NHibernate 3.3.1.4000 (3.3.2.GA)
+2013-01-22 09:32:46,568 [1] INFO  NHibernate.Cfg.Environment [(null)] <(null)> - hibernate-configuration section not found in application configuration file
+2013-01-22 09:32:46,572 [1] INFO  NHibernate.Cfg.Environment [(null)] <(null)> - Bytecode provider name : lcg
+2013-01-22 09:32:46,577 [1] INFO  NHibernate.Cfg.Environment [(null)] <(null)> - Using reflection optimizer
+2013-01-22 09:32:46,935 [1] INFO  NHibernate.Dialect.Dialect [(null)] <(null)> - Using dialect: NHibernate.Dialect.MsSql2005Dialect
+2013-01-22 09:32:47,036 [1] INFO  NHibernate.Cfg.XmlHbmBinding.Binder [(null)] <(null)> - Mapping class: NServiceBus.TimeoutPersisters.NHibernate.TimeoutEntity -> TimeoutEntity
+2013-01-22 09:32:47,139 [1] INFO  NHibernate.Cfg.XmlHbmBinding.Binder [(null)] <(null)> - Mapping class: NServiceBus.Unicast.Subscriptions.NHibernate.Subscription -> Subscription
+2013-01-22 09:32:47,180 [1] INFO  NHibernate.Dialect.Dialect [(null)] <(null)> - Using dialect: NHibernate.Dialect.MsSql2005Dialect
+2013-01-22 09:32:47,189 [1] INFO  NHibernate.Tool.hbm2ddl.SchemaUpdate [(null)] <(null)> - Running hbm2ddl schema update
+2013-01-22 09:32:47,193 [1] INFO  NHibernate.Tool.hbm2ddl.SchemaUpdate [(null)] <(null)> - fetching database metadata
+2013-01-22 09:32:47,198 [1] INFO  NHibernate.Connection.ConnectionProviderFactory [(null)] <(null)> - Initializing connection provider: NHibernate.Connection.DriverConnectionProvider
+2013-01-22 09:32:47,203 [1] INFO  NHibernate.Connection.ConnectionProvider [(null)] <(null)> - Configuring ConnectionProvider
+2013-01-22 09:32:47,616 [1] INFO  NHibernate.Tool.hbm2ddl.SchemaUpdate [(null)] <(null)> - updating schema
+2013-01-22 09:32:47,628 [1] INFO  NHibernate.Cfg.Configuration [(null)] <(null)> - checking mappings queue
+2013-01-22 09:32:47,633 [1] INFO  NHibernate.Cfg.Configuration [(null)] <(null)> - processing one-to-many association mappings
+2013-01-22 09:32:47,636 [1] INFO  NHibernate.Cfg.Configuration [(null)] <(null)> - processing one-to-one association property references
+2013-01-22 09:32:47,639 [1] INFO  NHibernate.Cfg.Configuration [(null)] <(null)> - processing foreign key constraints
+2013-01-22 09:32:47,647 [1] INFO  NHibernate.Cfg.Configuration [(null)] <(null)> - processing filters (second pass)
+2013-01-22 09:32:48,598 [1] INFO  NHibernate.Dialect.Schema.ITableMetadata [(null)] <(null)> - table found: NServiceBusSubscriptions.dbo.TimeoutEntity
+2013-01-22 09:32:48,602 [1] INFO  NHibernate.Dialect.Schema.ITableMetadata [(null)] <(null)> - columns: id, destination, sagaid, state, time, correlationid, headers, endpoint
+2013-01-22 09:32:48,605 [1] INFO  NHibernate.Dialect.Schema.ITableMetadata [(null)] <(null)> - foreign keys: 
+2013-01-22 09:32:48,609 [1] INFO  NHibernate.Dialect.Schema.ITableMetadata [(null)] <(null)> - indexes: endpointidx, pk__timeoute__3214ec077f60ed59, sagaididx
+2013-01-22 09:32:48,655 [1] INFO  NHibernate.Dialect.Schema.ITableMetadata [(null)] <(null)> - table found: NServiceBusSubscriptions.dbo.Subscription
+2013-01-22 09:32:48,658 [1] INFO  NHibernate.Dialect.Schema.ITableMetadata [(null)] <(null)> - columns: subscriberendpoint, messagetype, version, typename
+2013-01-22 09:32:48,661 [1] INFO  NHibernate.Dialect.Schema.ITableMetadata [(null)] <(null)> - foreign keys: 
+2013-01-22 09:32:48,665 [1] INFO  NHibernate.Dialect.Schema.ITableMetadata [(null)] <(null)> - indexes: nci_subscription_typename, pk__subscrip__407d9ab103317e3d
+2013-01-22 09:32:48,762 [1] INFO  NHibernate.Tool.hbm2ddl.SchemaUpdate [(null)] <(null)> - schema update complete
+2013-01-22 09:32:48,784 [1] INFO  NHibernate.Cfg.Configuration [(null)] <(null)> - checking mappings queue
+2013-01-22 09:32:48,788 [1] INFO  NHibernate.Cfg.Configuration [(null)] <(null)> - processing one-to-many association mappings
+2013-01-22 09:32:48,792 [1] INFO  NHibernate.Cfg.Configuration [(null)] <(null)> - processing one-to-one association property references
+2013-01-22 09:32:48,795 [1] INFO  NHibernate.Cfg.Configuration [(null)] <(null)> - processing foreign key constraints
+2013-01-22 09:32:48,799 [1] INFO  NHibernate.Cfg.Configuration [(null)] <(null)> - processing filters (second pass)
+2013-01-22 09:32:48,837 [1] INFO  NHibernate.Dialect.Dialect [(null)] <(null)> - Using dialect: NHibernate.Dialect.MsSql2005Dialect
+2013-01-22 09:32:48,852 [1] INFO  NHibernate.Dialect.Dialect [(null)] <(null)> - Using dialect: NHibernate.Dialect.MsSql2005Dialect
+2013-01-22 09:32:48,916 [1] INFO  NHibernate.Exceptions.SQLExceptionConverterFactory [(null)] <(null)> - Using dialect defined converter
+2013-01-22 09:32:48,920 [1] INFO  NHibernate.Cfg.SettingsFactory [(null)] <(null)> - Generate SQL with comments: disabled
+2013-01-22 09:32:48,923 [1] INFO  NHibernate.Connection.ConnectionProviderFactory [(null)] <(null)> - Initializing connection provider: NHibernate.Connection.DriverConnectionProvider
+2013-01-22 09:32:48,927 [1] INFO  NHibernate.Connection.ConnectionProvider [(null)] <(null)> - Configuring ConnectionProvider
+2013-01-22 09:32:48,931 [1] INFO  NHibernate.Cfg.SettingsFactory [(null)] <(null)> - Transaction factory: NHibernate.Transaction.AdoNetWithDistributedTransactionFactory
+2013-01-22 09:32:48,935 [1] INFO  NHibernate.Cfg.SettingsFactory [(null)] <(null)> - Optimize cache for minimal puts: False
+2013-01-22 09:32:48,940 [1] INFO  NHibernate.Cfg.SettingsFactory [(null)] <(null)> - Connection release mode: auto
+2013-01-22 09:32:48,944 [1] INFO  NHibernate.Cfg.SettingsFactory [(null)] <(null)> - Default batch fetch size: 1
+2013-01-22 09:32:48,947 [1] INFO  NHibernate.Cfg.SettingsFactory [(null)] <(null)> - Statistics: disabled
+2013-01-22 09:32:48,951 [1] INFO  NHibernate.Cfg.SettingsFactory [(null)] <(null)> - Deleted entity synthetic identifier rollback: disabled
+2013-01-22 09:32:48,956 [1] INFO  NHibernate.Cfg.SettingsFactory [(null)] <(null)> - Query translator: NHibernate.Hql.Ast.ANTLR.ASTQueryTranslatorFactory
+2013-01-22 09:32:48,965 [1] INFO  NHibernate.Cfg.SettingsFactory [(null)] <(null)> - Query language substitutions: {'true'='1', 'false'='0', 'yes'=''Y'', 'no'=''N''}
+2013-01-22 09:32:48,970 [1] INFO  NHibernate.Cfg.SettingsFactory [(null)] <(null)> - cache provider: NHibernate.Cache.NoCacheProvider, NHibernate, Version=3.3.1.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4
+2013-01-22 09:32:48,977 [1] INFO  NHibernate.Cfg.SettingsFactory [(null)] <(null)> - Order SQL inserts for batching: enabled
+2013-01-22 09:32:48,983 [1] INFO  NHibernate.Cfg.SettingsFactory [(null)] <(null)> - Batcher factory: NHibernate.AdoNet.SqlClientBatchingBatcherFactory, NHibernate, Version=3.3.1.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4
+2013-01-22 09:32:48,989 [1] INFO  NHibernate.Cfg.SettingsFactory [(null)] <(null)> - Default entity-mode: Poco
+2013-01-22 09:32:48,993 [1] INFO  NHibernate.Cfg.SettingsFactory [(null)] <(null)> - Named query checking : enabled
+2013-01-22 09:32:49,027 [1] INFO  NHibernate.Impl.SessionFactoryImpl [(null)] <(null)> - building session factory
+2013-01-22 09:32:49,394 [1] INFO  NHibernate.Impl.SessionFactoryObjectFactory [(null)] <(null)> - no name configured
+2013-01-22 09:32:49,545 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2013-01-22 09:32:49,644 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2013-01-22 09:32:49,661 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2013-01-22 09:32:49,675 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2013-01-22 09:32:49,681 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2013-01-22 09:32:53,698 [1] INFO  NHibernate.Loader.Loader [(null)] <(null)> - SELECT this_.SubscriberEndpoint as Subscrib1_1_0_, this_.MessageType as MessageT2_1_0_, this_.Version as Version1_0_, this_.TypeName as TypeName1_0_ FROM Subscription this_ WHERE this_.TypeName is null
+2013-01-22 09:40:14,488 [1] INFO  NHibernate.Cfg.Environment [(null)] <(null)> - NHibernate 3.3.1.4000 (3.3.2.GA)
+2013-01-22 09:40:14,601 [1] INFO  NHibernate.Cfg.Environment [(null)] <(null)> - hibernate-configuration section not found in application configuration file
+2013-01-22 09:40:14,605 [1] INFO  NHibernate.Cfg.Environment [(null)] <(null)> - Bytecode provider name : lcg
+2013-01-22 09:40:14,610 [1] INFO  NHibernate.Cfg.Environment [(null)] <(null)> - Using reflection optimizer
+2013-01-22 09:40:14,966 [1] INFO  NHibernate.Dialect.Dialect [(null)] <(null)> - Using dialect: NHibernate.Dialect.MsSql2005Dialect
+2013-01-22 09:40:15,056 [1] INFO  NHibernate.Cfg.XmlHbmBinding.Binder [(null)] <(null)> - Mapping class: NServiceBus.TimeoutPersisters.NHibernate.TimeoutEntity -> TimeoutEntity
+2013-01-22 09:40:15,147 [1] INFO  NHibernate.Cfg.XmlHbmBinding.Binder [(null)] <(null)> - Mapping class: NServiceBus.Unicast.Subscriptions.NHibernate.Subscription -> Subscription
+2013-01-22 09:40:15,977 [1] INFO  NHibernate.Dialect.Dialect [(null)] <(null)> - Using dialect: NHibernate.Dialect.MsSql2005Dialect
+2013-01-22 09:40:15,985 [1] INFO  NHibernate.Tool.hbm2ddl.SchemaUpdate [(null)] <(null)> - Running hbm2ddl schema update
+2013-01-22 09:40:15,988 [1] INFO  NHibernate.Tool.hbm2ddl.SchemaUpdate [(null)] <(null)> - fetching database metadata
+2013-01-22 09:40:15,994 [1] INFO  NHibernate.Connection.ConnectionProviderFactory [(null)] <(null)> - Initializing connection provider: NHibernate.Connection.DriverConnectionProvider
+2013-01-22 09:40:15,998 [1] INFO  NHibernate.Connection.ConnectionProvider [(null)] <(null)> - Configuring ConnectionProvider
+2013-01-22 09:40:16,394 [1] INFO  NHibernate.Tool.hbm2ddl.SchemaUpdate [(null)] <(null)> - updating schema
+2013-01-22 09:40:16,405 [1] INFO  NHibernate.Cfg.Configuration [(null)] <(null)> - checking mappings queue
+2013-01-22 09:40:16,409 [1] INFO  NHibernate.Cfg.Configuration [(null)] <(null)> - processing one-to-many association mappings
+2013-01-22 09:40:16,412 [1] INFO  NHibernate.Cfg.Configuration [(null)] <(null)> - processing one-to-one association property references
+2013-01-22 09:40:16,415 [1] INFO  NHibernate.Cfg.Configuration [(null)] <(null)> - processing foreign key constraints
+2013-01-22 09:40:16,421 [1] INFO  NHibernate.Cfg.Configuration [(null)] <(null)> - processing filters (second pass)
+2013-01-22 09:40:17,382 [1] INFO  NHibernate.Dialect.Schema.ITableMetadata [(null)] <(null)> - table found: NServiceBusSubscriptions.dbo.TimeoutEntity
+2013-01-22 09:40:17,387 [1] INFO  NHibernate.Dialect.Schema.ITableMetadata [(null)] <(null)> - columns: id, destination, sagaid, state, time, correlationid, headers, endpoint
+2013-01-22 09:40:17,390 [1] INFO  NHibernate.Dialect.Schema.ITableMetadata [(null)] <(null)> - foreign keys: 
+2013-01-22 09:40:17,394 [1] INFO  NHibernate.Dialect.Schema.ITableMetadata [(null)] <(null)> - indexes: endpointidx, pk__timeoute__3214ec077f60ed59, sagaididx
+2013-01-22 09:40:17,417 [1] INFO  NHibernate.Dialect.Schema.ITableMetadata [(null)] <(null)> - table found: NServiceBusSubscriptions.dbo.Subscription
+2013-01-22 09:40:17,421 [1] INFO  NHibernate.Dialect.Schema.ITableMetadata [(null)] <(null)> - columns: subscriberendpoint, messagetype, version, typename
+2013-01-22 09:40:17,425 [1] INFO  NHibernate.Dialect.Schema.ITableMetadata [(null)] <(null)> - foreign keys: 
+2013-01-22 09:40:17,429 [1] INFO  NHibernate.Dialect.Schema.ITableMetadata [(null)] <(null)> - indexes: nci_subscription_typename, pk__subscrip__407d9ab103317e3d
+2013-01-22 09:40:17,525 [1] INFO  NHibernate.Tool.hbm2ddl.SchemaUpdate [(null)] <(null)> - schema update complete
+2013-01-22 09:40:17,596 [1] INFO  NHibernate.Cfg.Configuration [(null)] <(null)> - checking mappings queue
+2013-01-22 09:40:17,601 [1] INFO  NHibernate.Cfg.Configuration [(null)] <(null)> - processing one-to-many association mappings
+2013-01-22 09:40:17,604 [1] INFO  NHibernate.Cfg.Configuration [(null)] <(null)> - processing one-to-one association property references
+2013-01-22 09:40:17,607 [1] INFO  NHibernate.Cfg.Configuration [(null)] <(null)> - processing foreign key constraints
+2013-01-22 09:40:17,610 [1] INFO  NHibernate.Cfg.Configuration [(null)] <(null)> - processing filters (second pass)
+2013-01-22 09:40:17,643 [1] INFO  NHibernate.Dialect.Dialect [(null)] <(null)> - Using dialect: NHibernate.Dialect.MsSql2005Dialect
+2013-01-22 09:40:17,663 [1] INFO  NHibernate.Dialect.Dialect [(null)] <(null)> - Using dialect: NHibernate.Dialect.MsSql2005Dialect
+2013-01-22 09:40:17,716 [1] INFO  NHibernate.Exceptions.SQLExceptionConverterFactory [(null)] <(null)> - Using dialect defined converter
+2013-01-22 09:40:17,721 [1] INFO  NHibernate.Cfg.SettingsFactory [(null)] <(null)> - Generate SQL with comments: disabled
+2013-01-22 09:40:17,725 [1] INFO  NHibernate.Connection.ConnectionProviderFactory [(null)] <(null)> - Initializing connection provider: NHibernate.Connection.DriverConnectionProvider
+2013-01-22 09:40:17,728 [1] INFO  NHibernate.Connection.ConnectionProvider [(null)] <(null)> - Configuring ConnectionProvider
+2013-01-22 09:40:17,732 [1] INFO  NHibernate.Cfg.SettingsFactory [(null)] <(null)> - Transaction factory: NHibernate.Transaction.AdoNetWithDistributedTransactionFactory
+2013-01-22 09:40:17,736 [1] INFO  NHibernate.Cfg.SettingsFactory [(null)] <(null)> - Optimize cache for minimal puts: False
+2013-01-22 09:40:17,740 [1] INFO  NHibernate.Cfg.SettingsFactory [(null)] <(null)> - Connection release mode: auto
+2013-01-22 09:40:17,744 [1] INFO  NHibernate.Cfg.SettingsFactory [(null)] <(null)> - Default batch fetch size: 1
+2013-01-22 09:40:17,748 [1] INFO  NHibernate.Cfg.SettingsFactory [(null)] <(null)> - Statistics: disabled
+2013-01-22 09:40:17,752 [1] INFO  NHibernate.Cfg.SettingsFactory [(null)] <(null)> - Deleted entity synthetic identifier rollback: disabled
+2013-01-22 09:40:17,757 [1] INFO  NHibernate.Cfg.SettingsFactory [(null)] <(null)> - Query translator: NHibernate.Hql.Ast.ANTLR.ASTQueryTranslatorFactory
+2013-01-22 09:40:17,764 [1] INFO  NHibernate.Cfg.SettingsFactory [(null)] <(null)> - Query language substitutions: {'true'='1', 'false'='0', 'yes'=''Y'', 'no'=''N''}
+2013-01-22 09:40:17,770 [1] INFO  NHibernate.Cfg.SettingsFactory [(null)] <(null)> - cache provider: NHibernate.Cache.NoCacheProvider, NHibernate, Version=3.3.1.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4
+2013-01-22 09:40:17,775 [1] INFO  NHibernate.Cfg.SettingsFactory [(null)] <(null)> - Order SQL inserts for batching: enabled
+2013-01-22 09:40:17,780 [1] INFO  NHibernate.Cfg.SettingsFactory [(null)] <(null)> - Batcher factory: NHibernate.AdoNet.SqlClientBatchingBatcherFactory, NHibernate, Version=3.3.1.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4
+2013-01-22 09:40:17,784 [1] INFO  NHibernate.Cfg.SettingsFactory [(null)] <(null)> - Default entity-mode: Poco
+2013-01-22 09:40:17,789 [1] INFO  NHibernate.Cfg.SettingsFactory [(null)] <(null)> - Named query checking : enabled
+2013-01-22 09:40:17,824 [1] INFO  NHibernate.Impl.SessionFactoryImpl [(null)] <(null)> - building session factory
+2013-01-22 09:40:18,289 [1] INFO  NHibernate.Impl.SessionFactoryObjectFactory [(null)] <(null)> - no name configured
+2013-01-22 09:40:18,466 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2013-01-22 09:40:18,624 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2013-01-22 09:40:18,650 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2013-01-22 09:40:18,670 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2013-01-22 09:40:18,681 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2013-01-22 09:40:22,250 [1] INFO  NHibernate.Loader.Loader [(null)] <(null)> - SELECT this_.SubscriberEndpoint as Subscrib1_1_0_, this_.MessageType as MessageT2_1_0_, this_.Version as Version1_0_, this_.TypeName as TypeName1_0_ FROM Subscription this_ WHERE this_.TypeName is null
+2013-01-22 09:42:29,420 [1] INFO  NHibernate.Cfg.Environment [(null)] <(null)> - NHibernate 3.3.1.4000 (3.3.2.GA)
+2013-01-22 09:42:29,551 [1] INFO  NHibernate.Cfg.Environment [(null)] <(null)> - hibernate-configuration section not found in application configuration file
+2013-01-22 09:42:29,555 [1] INFO  NHibernate.Cfg.Environment [(null)] <(null)> - Bytecode provider name : lcg
+2013-01-22 09:42:29,560 [1] INFO  NHibernate.Cfg.Environment [(null)] <(null)> - Using reflection optimizer
+2013-01-22 09:42:29,936 [1] INFO  NHibernate.Dialect.Dialect [(null)] <(null)> - Using dialect: NHibernate.Dialect.MsSql2005Dialect
+2013-01-22 09:42:30,026 [1] INFO  NHibernate.Cfg.XmlHbmBinding.Binder [(null)] <(null)> - Mapping class: NServiceBus.TimeoutPersisters.NHibernate.TimeoutEntity -> TimeoutEntity
+2013-01-22 09:42:30,115 [1] INFO  NHibernate.Cfg.XmlHbmBinding.Binder [(null)] <(null)> - Mapping class: NServiceBus.Unicast.Subscriptions.NHibernate.Subscription -> Subscription
+2013-01-22 09:42:30,144 [1] INFO  NHibernate.Dialect.Dialect [(null)] <(null)> - Using dialect: NHibernate.Dialect.MsSql2005Dialect
+2013-01-22 09:42:30,153 [1] INFO  NHibernate.Tool.hbm2ddl.SchemaUpdate [(null)] <(null)> - Running hbm2ddl schema update
+2013-01-22 09:42:30,157 [1] INFO  NHibernate.Tool.hbm2ddl.SchemaUpdate [(null)] <(null)> - fetching database metadata
+2013-01-22 09:42:30,162 [1] INFO  NHibernate.Connection.ConnectionProviderFactory [(null)] <(null)> - Initializing connection provider: NHibernate.Connection.DriverConnectionProvider
+2013-01-22 09:42:30,167 [1] INFO  NHibernate.Connection.ConnectionProvider [(null)] <(null)> - Configuring ConnectionProvider
+2013-01-22 09:42:30,660 [1] INFO  NHibernate.Tool.hbm2ddl.SchemaUpdate [(null)] <(null)> - updating schema
+2013-01-22 09:42:30,673 [1] INFO  NHibernate.Cfg.Configuration [(null)] <(null)> - checking mappings queue
+2013-01-22 09:42:30,677 [1] INFO  NHibernate.Cfg.Configuration [(null)] <(null)> - processing one-to-many association mappings
+2013-01-22 09:42:30,680 [1] INFO  NHibernate.Cfg.Configuration [(null)] <(null)> - processing one-to-one association property references
+2013-01-22 09:42:30,684 [1] INFO  NHibernate.Cfg.Configuration [(null)] <(null)> - processing foreign key constraints
+2013-01-22 09:42:30,691 [1] INFO  NHibernate.Cfg.Configuration [(null)] <(null)> - processing filters (second pass)
+2013-01-22 09:42:31,696 [1] INFO  NHibernate.Dialect.Schema.ITableMetadata [(null)] <(null)> - table found: NServiceBusSubscriptions.dbo.TimeoutEntity
+2013-01-22 09:42:31,701 [1] INFO  NHibernate.Dialect.Schema.ITableMetadata [(null)] <(null)> - columns: id, destination, sagaid, state, time, correlationid, headers, endpoint
+2013-01-22 09:42:31,704 [1] INFO  NHibernate.Dialect.Schema.ITableMetadata [(null)] <(null)> - foreign keys: 
+2013-01-22 09:42:31,707 [1] INFO  NHibernate.Dialect.Schema.ITableMetadata [(null)] <(null)> - indexes: endpointidx, pk__timeoute__3214ec077f60ed59, sagaididx
+2013-01-22 09:42:31,758 [1] INFO  NHibernate.Dialect.Schema.ITableMetadata [(null)] <(null)> - table found: NServiceBusSubscriptions.dbo.Subscription
+2013-01-22 09:42:31,761 [1] INFO  NHibernate.Dialect.Schema.ITableMetadata [(null)] <(null)> - columns: subscriberendpoint, messagetype, version, typename
+2013-01-22 09:42:31,765 [1] INFO  NHibernate.Dialect.Schema.ITableMetadata [(null)] <(null)> - foreign keys: 
+2013-01-22 09:42:31,768 [1] INFO  NHibernate.Dialect.Schema.ITableMetadata [(null)] <(null)> - indexes: nci_subscription_typename, pk__subscrip__407d9ab103317e3d
+2013-01-22 09:42:31,874 [1] INFO  NHibernate.Tool.hbm2ddl.SchemaUpdate [(null)] <(null)> - schema update complete
+2013-01-22 09:42:31,897 [1] INFO  NHibernate.Cfg.Configuration [(null)] <(null)> - checking mappings queue
+2013-01-22 09:42:31,900 [1] INFO  NHibernate.Cfg.Configuration [(null)] <(null)> - processing one-to-many association mappings
+2013-01-22 09:42:31,904 [1] INFO  NHibernate.Cfg.Configuration [(null)] <(null)> - processing one-to-one association property references
+2013-01-22 09:42:31,906 [1] INFO  NHibernate.Cfg.Configuration [(null)] <(null)> - processing foreign key constraints
+2013-01-22 09:42:31,910 [1] INFO  NHibernate.Cfg.Configuration [(null)] <(null)> - processing filters (second pass)
+2013-01-22 09:42:31,944 [1] INFO  NHibernate.Dialect.Dialect [(null)] <(null)> - Using dialect: NHibernate.Dialect.MsSql2005Dialect
+2013-01-22 09:42:31,960 [1] INFO  NHibernate.Dialect.Dialect [(null)] <(null)> - Using dialect: NHibernate.Dialect.MsSql2005Dialect
+2013-01-22 09:42:32,023 [1] INFO  NHibernate.Exceptions.SQLExceptionConverterFactory [(null)] <(null)> - Using dialect defined converter
+2013-01-22 09:42:32,026 [1] INFO  NHibernate.Cfg.SettingsFactory [(null)] <(null)> - Generate SQL with comments: disabled
+2013-01-22 09:42:32,030 [1] INFO  NHibernate.Connection.ConnectionProviderFactory [(null)] <(null)> - Initializing connection provider: NHibernate.Connection.DriverConnectionProvider
+2013-01-22 09:42:32,033 [1] INFO  NHibernate.Connection.ConnectionProvider [(null)] <(null)> - Configuring ConnectionProvider
+2013-01-22 09:42:32,037 [1] INFO  NHibernate.Cfg.SettingsFactory [(null)] <(null)> - Transaction factory: NHibernate.Transaction.AdoNetWithDistributedTransactionFactory
+2013-01-22 09:42:32,041 [1] INFO  NHibernate.Cfg.SettingsFactory [(null)] <(null)> - Optimize cache for minimal puts: False
+2013-01-22 09:42:32,043 [1] INFO  NHibernate.Cfg.SettingsFactory [(null)] <(null)> - Connection release mode: auto
+2013-01-22 09:42:32,048 [1] INFO  NHibernate.Cfg.SettingsFactory [(null)] <(null)> - Default batch fetch size: 1
+2013-01-22 09:42:32,052 [1] INFO  NHibernate.Cfg.SettingsFactory [(null)] <(null)> - Statistics: disabled
+2013-01-22 09:42:32,056 [1] INFO  NHibernate.Cfg.SettingsFactory [(null)] <(null)> - Deleted entity synthetic identifier rollback: disabled
+2013-01-22 09:42:32,061 [1] INFO  NHibernate.Cfg.SettingsFactory [(null)] <(null)> - Query translator: NHibernate.Hql.Ast.ANTLR.ASTQueryTranslatorFactory
+2013-01-22 09:42:32,071 [1] INFO  NHibernate.Cfg.SettingsFactory [(null)] <(null)> - Query language substitutions: {'true'='1', 'false'='0', 'yes'=''Y'', 'no'=''N''}
+2013-01-22 09:42:32,076 [1] INFO  NHibernate.Cfg.SettingsFactory [(null)] <(null)> - cache provider: NHibernate.Cache.NoCacheProvider, NHibernate, Version=3.3.1.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4
+2013-01-22 09:42:32,085 [1] INFO  NHibernate.Cfg.SettingsFactory [(null)] <(null)> - Order SQL inserts for batching: enabled
+2013-01-22 09:42:32,090 [1] INFO  NHibernate.Cfg.SettingsFactory [(null)] <(null)> - Batcher factory: NHibernate.AdoNet.SqlClientBatchingBatcherFactory, NHibernate, Version=3.3.1.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4
+2013-01-22 09:42:32,096 [1] INFO  NHibernate.Cfg.SettingsFactory [(null)] <(null)> - Default entity-mode: Poco
+2013-01-22 09:42:32,100 [1] INFO  NHibernate.Cfg.SettingsFactory [(null)] <(null)> - Named query checking : enabled
+2013-01-22 09:42:32,139 [1] INFO  NHibernate.Impl.SessionFactoryImpl [(null)] <(null)> - building session factory
+2013-01-22 09:42:32,527 [1] INFO  NHibernate.Impl.SessionFactoryObjectFactory [(null)] <(null)> - no name configured
+2013-01-22 09:42:32,661 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2013-01-22 09:42:32,763 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2013-01-22 09:42:32,779 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2013-01-22 09:42:32,792 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2013-01-22 09:42:32,796 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2013-01-22 09:42:37,993 [1] INFO  NHibernate.Loader.Loader [(null)] <(null)> - SELECT this_.SubscriberEndpoint as Subscrib1_1_0_, this_.MessageType as MessageT2_1_0_, this_.Version as Version1_0_, this_.TypeName as TypeName1_0_ FROM Subscription this_ WHERE this_.TypeName is null
+2013-01-22 09:43:44,078 [1] INFO  NHibernate.Cfg.Environment [(null)] <(null)> - NHibernate 3.3.1.4000 (3.3.2.GA)
+2013-01-22 09:43:44,184 [1] INFO  NHibernate.Cfg.Environment [(null)] <(null)> - hibernate-configuration section not found in application configuration file
+2013-01-22 09:43:44,189 [1] INFO  NHibernate.Cfg.Environment [(null)] <(null)> - Bytecode provider name : lcg
+2013-01-22 09:43:44,194 [1] INFO  NHibernate.Cfg.Environment [(null)] <(null)> - Using reflection optimizer
+2013-01-22 09:43:44,540 [1] INFO  NHibernate.Dialect.Dialect [(null)] <(null)> - Using dialect: NHibernate.Dialect.MsSql2005Dialect
+2013-01-22 09:43:44,623 [1] INFO  NHibernate.Cfg.XmlHbmBinding.Binder [(null)] <(null)> - Mapping class: NServiceBus.TimeoutPersisters.NHibernate.TimeoutEntity -> TimeoutEntity
+2013-01-22 09:43:44,703 [1] INFO  NHibernate.Cfg.XmlHbmBinding.Binder [(null)] <(null)> - Mapping class: NServiceBus.Unicast.Subscriptions.NHibernate.Subscription -> Subscription
+2013-01-22 09:43:44,744 [1] INFO  NHibernate.Dialect.Dialect [(null)] <(null)> - Using dialect: NHibernate.Dialect.MsSql2005Dialect
+2013-01-22 09:43:44,751 [1] INFO  NHibernate.Tool.hbm2ddl.SchemaUpdate [(null)] <(null)> - Running hbm2ddl schema update
+2013-01-22 09:43:44,754 [1] INFO  NHibernate.Tool.hbm2ddl.SchemaUpdate [(null)] <(null)> - fetching database metadata
+2013-01-22 09:43:44,760 [1] INFO  NHibernate.Connection.ConnectionProviderFactory [(null)] <(null)> - Initializing connection provider: NHibernate.Connection.DriverConnectionProvider
+2013-01-22 09:43:44,765 [1] INFO  NHibernate.Connection.ConnectionProvider [(null)] <(null)> - Configuring ConnectionProvider
+2013-01-22 09:43:45,193 [1] INFO  NHibernate.Tool.hbm2ddl.SchemaUpdate [(null)] <(null)> - updating schema
+2013-01-22 09:43:45,206 [1] INFO  NHibernate.Cfg.Configuration [(null)] <(null)> - checking mappings queue
+2013-01-22 09:43:45,209 [1] INFO  NHibernate.Cfg.Configuration [(null)] <(null)> - processing one-to-many association mappings
+2013-01-22 09:43:45,212 [1] INFO  NHibernate.Cfg.Configuration [(null)] <(null)> - processing one-to-one association property references
+2013-01-22 09:43:45,215 [1] INFO  NHibernate.Cfg.Configuration [(null)] <(null)> - processing foreign key constraints
+2013-01-22 09:43:45,222 [1] INFO  NHibernate.Cfg.Configuration [(null)] <(null)> - processing filters (second pass)
+2013-01-22 09:43:46,274 [1] INFO  NHibernate.Dialect.Schema.ITableMetadata [(null)] <(null)> - table found: NServiceBusSubscriptions.dbo.TimeoutEntity
+2013-01-22 09:43:46,279 [1] INFO  NHibernate.Dialect.Schema.ITableMetadata [(null)] <(null)> - columns: id, destination, sagaid, state, time, correlationid, headers, endpoint
+2013-01-22 09:43:46,284 [1] INFO  NHibernate.Dialect.Schema.ITableMetadata [(null)] <(null)> - foreign keys: 
+2013-01-22 09:43:46,288 [1] INFO  NHibernate.Dialect.Schema.ITableMetadata [(null)] <(null)> - indexes: endpointidx, pk__timeoute__3214ec077f60ed59, sagaididx
+2013-01-22 09:43:46,339 [1] INFO  NHibernate.Dialect.Schema.ITableMetadata [(null)] <(null)> - table found: NServiceBusSubscriptions.dbo.Subscription
+2013-01-22 09:43:46,342 [1] INFO  NHibernate.Dialect.Schema.ITableMetadata [(null)] <(null)> - columns: subscriberendpoint, messagetype, version, typename
+2013-01-22 09:43:46,346 [1] INFO  NHibernate.Dialect.Schema.ITableMetadata [(null)] <(null)> - foreign keys: 
+2013-01-22 09:43:46,350 [1] INFO  NHibernate.Dialect.Schema.ITableMetadata [(null)] <(null)> - indexes: nci_subscription_typename, pk__subscrip__407d9ab103317e3d
+2013-01-22 09:43:46,460 [1] INFO  NHibernate.Tool.hbm2ddl.SchemaUpdate [(null)] <(null)> - schema update complete
+2013-01-22 09:43:46,484 [1] INFO  NHibernate.Cfg.Configuration [(null)] <(null)> - checking mappings queue
+2013-01-22 09:43:46,488 [1] INFO  NHibernate.Cfg.Configuration [(null)] <(null)> - processing one-to-many association mappings
+2013-01-22 09:43:46,491 [1] INFO  NHibernate.Cfg.Configuration [(null)] <(null)> - processing one-to-one association property references
+2013-01-22 09:43:46,495 [1] INFO  NHibernate.Cfg.Configuration [(null)] <(null)> - processing foreign key constraints
+2013-01-22 09:43:46,499 [1] INFO  NHibernate.Cfg.Configuration [(null)] <(null)> - processing filters (second pass)
+2013-01-22 09:43:46,531 [1] INFO  NHibernate.Dialect.Dialect [(null)] <(null)> - Using dialect: NHibernate.Dialect.MsSql2005Dialect
+2013-01-22 09:43:46,546 [1] INFO  NHibernate.Dialect.Dialect [(null)] <(null)> - Using dialect: NHibernate.Dialect.MsSql2005Dialect
+2013-01-22 09:43:46,607 [1] INFO  NHibernate.Exceptions.SQLExceptionConverterFactory [(null)] <(null)> - Using dialect defined converter
+2013-01-22 09:43:46,611 [1] INFO  NHibernate.Cfg.SettingsFactory [(null)] <(null)> - Generate SQL with comments: disabled
+2013-01-22 09:43:46,615 [1] INFO  NHibernate.Connection.ConnectionProviderFactory [(null)] <(null)> - Initializing connection provider: NHibernate.Connection.DriverConnectionProvider
+2013-01-22 09:43:46,618 [1] INFO  NHibernate.Connection.ConnectionProvider [(null)] <(null)> - Configuring ConnectionProvider
+2013-01-22 09:43:46,622 [1] INFO  NHibernate.Cfg.SettingsFactory [(null)] <(null)> - Transaction factory: NHibernate.Transaction.AdoNetWithDistributedTransactionFactory
+2013-01-22 09:43:46,627 [1] INFO  NHibernate.Cfg.SettingsFactory [(null)] <(null)> - Optimize cache for minimal puts: False
+2013-01-22 09:43:46,630 [1] INFO  NHibernate.Cfg.SettingsFactory [(null)] <(null)> - Connection release mode: auto
+2013-01-22 09:43:46,634 [1] INFO  NHibernate.Cfg.SettingsFactory [(null)] <(null)> - Default batch fetch size: 1
+2013-01-22 09:43:46,638 [1] INFO  NHibernate.Cfg.SettingsFactory [(null)] <(null)> - Statistics: disabled
+2013-01-22 09:43:46,642 [1] INFO  NHibernate.Cfg.SettingsFactory [(null)] <(null)> - Deleted entity synthetic identifier rollback: disabled
+2013-01-22 09:43:46,647 [1] INFO  NHibernate.Cfg.SettingsFactory [(null)] <(null)> - Query translator: NHibernate.Hql.Ast.ANTLR.ASTQueryTranslatorFactory
+2013-01-22 09:43:46,656 [1] INFO  NHibernate.Cfg.SettingsFactory [(null)] <(null)> - Query language substitutions: {'true'='1', 'false'='0', 'yes'=''Y'', 'no'=''N''}
+2013-01-22 09:43:46,663 [1] INFO  NHibernate.Cfg.SettingsFactory [(null)] <(null)> - cache provider: NHibernate.Cache.NoCacheProvider, NHibernate, Version=3.3.1.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4
+2013-01-22 09:43:46,670 [1] INFO  NHibernate.Cfg.SettingsFactory [(null)] <(null)> - Order SQL inserts for batching: enabled
+2013-01-22 09:43:46,676 [1] INFO  NHibernate.Cfg.SettingsFactory [(null)] <(null)> - Batcher factory: NHibernate.AdoNet.SqlClientBatchingBatcherFactory, NHibernate, Version=3.3.1.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4
+2013-01-22 09:43:46,682 [1] INFO  NHibernate.Cfg.SettingsFactory [(null)] <(null)> - Default entity-mode: Poco
+2013-01-22 09:43:46,687 [1] INFO  NHibernate.Cfg.SettingsFactory [(null)] <(null)> - Named query checking : enabled
+2013-01-22 09:43:46,730 [1] INFO  NHibernate.Impl.SessionFactoryImpl [(null)] <(null)> - building session factory
+2013-01-22 09:43:47,083 [1] INFO  NHibernate.Impl.SessionFactoryObjectFactory [(null)] <(null)> - no name configured
+2013-01-22 09:43:47,213 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2013-01-22 09:43:47,338 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2013-01-22 09:43:47,360 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2013-01-22 09:43:47,379 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2013-01-22 09:43:47,386 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2013-01-22 09:43:51,957 [1] INFO  NHibernate.Loader.Loader [(null)] <(null)> - SELECT this_.SubscriberEndpoint as Subscrib1_1_0_, this_.MessageType as MessageT2_1_0_, this_.Version as Version1_0_, this_.TypeName as TypeName1_0_ FROM Subscription this_ WHERE this_.TypeName is null
+2013-01-22 09:43:52,142 [1] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing to Messages.Event, Messages, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null at publisher queue domain@ffcg156

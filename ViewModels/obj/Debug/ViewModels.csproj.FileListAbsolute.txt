@@ -1,0 +1,4 @@
+c:\users\niklas.arbin\documents\visual studio 2012\Projects\KTHDemo\ViewModels\bin\Debug\ViewModels.dll
+c:\users\niklas.arbin\documents\visual studio 2012\Projects\KTHDemo\ViewModels\bin\Debug\ViewModels.pdb
+c:\users\niklas.arbin\documents\visual studio 2012\Projects\KTHDemo\ViewModels\obj\Debug\ViewModels.dll
+c:\users\niklas.arbin\documents\visual studio 2012\Projects\KTHDemo\ViewModels\obj\Debug\ViewModels.pdb
